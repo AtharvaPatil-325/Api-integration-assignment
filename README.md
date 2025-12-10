@@ -25,3 +25,10 @@ This is a small assignment project where I fetch data from the public JSONPlaceh
 4. To run the project:
    - Open `GlobalTrendApplication.java`
    - Click the **Run** button.
+
+## Sample Output
+
+Below are a few sample responses from the API:
+
+![Output 1](images/Output-1.png)
+![Output 2](images/Output-2.png)
