@@ -1,6 +1,6 @@
 # API Integration Assignment – Spring Boot
 
-This is a small assignment project where I fetch data from the public JSONPlaceholder API and expose simple REST endpoints after caching the data locally.
+This is a small assignment project where I fetch data from the public JSONPlaceholder API and expose simple REST endpoints after caching the data locally. 
 
 ## Public APIs Used
 - https://jsonplaceholder.typicode.com/posts
